@@ -4,7 +4,7 @@ import re
 import openai
 import db
 
-openai.api_key = "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"
+openai.api_key = " "
 model_engine = "text-davinci-003"
 
 
